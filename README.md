@@ -2,6 +2,7 @@
 
 This repository is a collection of all the code, files and documents I used and created while writing my master's thesis: Testing ChatGPT - MCQ Performance. 
 My thesis focus was on evaluating ChatGPT's performance across several areas of knowlegde; this included comparing GPT-3.5 (API model: _gpt-3.5-turbo-1160_) with GPT-4 (API model: _gpt-4-0613_) as well as analysing in which subjects these versions performed better. Note that I used this models during March of 2024.
+
 To be able to properly test ChatGPT, I selected different datasets (found online) consisting of multiple choice questions. Each dataset focused on a different subjet, making me able to test these LLMs in different areas, as I intended to. Not all the datasets I used had the same structure and some of them did not have the structure I desired. Therefore, I had to transform the datasets to give them the organization and shape I wanted. 
 Once all the datasets had the desired structure, I reduced them in size before using OpenAI's APIs to get GPT-3.5 and GPT-4 to answer the multiple choice questions. 
 To analyse the answers, I used both R and Excel. 
