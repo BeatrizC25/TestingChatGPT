@@ -1,0 +1,91 @@
+Question,A,B,C,D,E,Correct Option,GPT-3.5,GPT-4,Eval GPT-3.5,Eval GPT-4
+The craftsman used elaborate joinery and paneling for the what of the saloon?,swing door,entrance,wall,sliding door,exterior door,A,C,C,0,0
+"He wanted a saxophone, so he went where?",grocery store,case,marching band,orchestra,music store,E,E,E,1,1
+Where will a book being read by one person be kept?,school room,university,bedside table,pantry,discount store,C,C,C,1,1
+"I forgot to pay the electricity bill, now what can't I do with my ground pump?",put in to the water,cause fire,produce heat,short fuse,shock,C,B,A,0,0
+Where is a dish usually used?,picnic,sink,kitchen cabinet,table,pantry,D,D,D,1,1
+"The fight enemy choice had led him to a grave injury, he was now what?",dying,victory,casualties,protect yourself,death,A,A,A,1,1
+What is not a reason that you would want to be going for run?,pull muscle,breathlessness,better health,trip,losing weight,B,D,C,0,0
+What can you put in a parking lot?,car,town,circus,city,business district,A,A,A,1,1
+Joe was driven by curiosity to take up a career doing what?,use television,see exhibits,read book,design software,taking a walk,D,B,D,0,1
+"If you're betting with a shark, where are you likely playing?",aquarium,mediterranean sea,south pacific,pool hall,pacific ocean,D,D,D,1,1
+Where would you give something other than money to a clerk?,ticket booth,at hotel,shop,bookstore,post office,E,A,A,0,0
+Awaking in the middle of the night may cause what?,depression,irritability,shock,discomfort,alertness,B,B,B,1,1
+What sort of organization do employees usually work for?,a business,meeting,corporation,company,office,D,A,A,0,0
+Johnny sat on a bench and relaxed after doing a lot of work on his hobby.  Where is he?,state park,bus depot,garden,gym,rest area,C,C,,1,0
+"If you aren't glad, unhappy or gloomy, what illness may you have?",depressed,downcast,angry,unhappy,sorrowful,A,A,A,1,1
+In a court what group passes a sentence?,sure,arrive at conviction,on jury,judgemental,mom,C,C,C,1,1
+which door with lock regularly holds cars?,house,autolock,garage,file cabinet,safe,C,C,C,1,1
+Why would we handle glass with care ?,many different colors,cut vegetables,break easily,melt,hold water,C,C,C,1,1
+What kind of box does a fish live in?,aquarium,ocean,pond,bay,river,A,A,A,1,1
+What eastern continent would you travel to in order to see a gazelle in their disneyland's zoo?,australia,wildlife refuge,ivory coast,open plain,asia,E,A,E,0,1
+What could stop someone from opening business?,get rich,may be occured failure..,wealth,busy,failure,D,B,E,0,0
+"She couldn't wait to see the performance, she stood in the line for the box office where?",theatre,venue,theater district,movie theater,ballpark,A,A,A,1,1
+Where are you likely to find melted cheese?,refrigerator,bread,fridge,pizza,market,D,D,D,1,1
+"Out changing society meets a lot of resistance by people who like the old way of things.   But slowly, new ways gain what?",happy times ahead,change in leadership,better standard of living,no water,acceptance,E,E,E,1,1
+"His favorite general store had most things, and if it didn't it was conveniently located with other shops in the what?",shopping mall,barn,salt,old west,checkers,A,B,A,0,1
+"To gain her trust the real estate agent was very polite, delightful and all around what?",manipulate,charming,deceive,exaggerate,incompetent,B,B,B,1,1
+A student should not do what while their instructor is lecturing?,play piano,talk,talk on their phone,study engineering,read book,B,B,C,1,0
+"If a crowd of people being to panic, what might they do?",destroy each other,run amok,die,desire to win,talk to each other,B,B,B,1,1
+Where would you find fungus in a university?,cave,biology laboratory,decaying matter,mushroom hunting,old cheese,B,B,B,1,1
+Where could you put some knives if you are planning to bring them outside with you?,purse,backpack,drawer,sporting goods store,kitchen,B,B,A,1,0
+When having food it is common to do what other act of consumption?,drinking,playing poker,sit,talk,being greedy,A,A,A,1,1
+What is learning about the world and it's injustices  likely to cause?,anger,loss of innocence,happiness,pleasure,enlightenment,A,B,B,0,0
+Having lunch too many times can result in what?,you die,obesity,feeling satisfied,feel full,digestion,B,B,B,1,1
+"The Mormon owned steak house was always busy, it was a great place to visit where?",utah,nebraska,the sun,new york,strip mall,A,A,A,1,1
+Where is somewhere you stop to go to the bathroom when on the road?,school,rest area,at hotel,friend's house,educational area,B,B,B,1,1
+"I want to make new friends when I socialize at the party, what should I do?",find friends,sing,mix,with people,see people,C,C,C,1,1
+What goes well with drinks?,show,bar,soda,dinner,refrigerator,D,C,D,0,1
+How do you signal that you are agreeing with someone on a deal?,lie,nodding,shaking hand,nod and smile,whistle,C,B,C,0,1
+What kind of tour is someone likely to see the eiffel tower on?,garage,movies,in europe,paris,bus,C,C,D,1,0
+What city would you find a temple containing men with shaved heads?,jewish community,nepal,middle east,timbuktu,india,B,E,E,0,0
+What do I cook on the stove when I want to make tacos?,brown meat,mexico,open can,bake bread,warm food,A,A,A,1,1
+Dan is very creative. He likes to read and wants to make something like that.   On a rainy day he tries his hand.  What might he do?,write,go to movie,stay in bed,enjoy film,make bread,A,A,A,1,1
+Where might someone find a very nice flat?,city,shoes,apartment building,town,london,E,C,C,0,0
+"China transports lots of cargo, one way is by sea in a very large what?",ship's hold,boat,bus,aeroplane,airplane,B,A,B,0,1
+"If people are told something controversial, what do they do next?",hope for peace,believe in god,start fighting,form opinions,worship idols,D,D,D,1,1
+Where could you find a policeman that is sitting down?,front door,office,police station,street,roadblock,C,B,C,0,1
+Where is small knight likely to be found?,fairy tale,castle,middle ages,chess board,doll house,D,B,D,0,1
+Beavers are native to the northwest of north american such as what canadian region?,british columbia,woodlands,wooded area,niagara falls,body of water,A,A,A,1,1
+"The small dog was something of a homebody, it loved naps on the couch where?",big house,dog show,small apartment,limousine,living room,E,E,E,1,1
+"If something is dull, what would it be after you fixed it?",sharp,bright,exciting,interesting,intelligent,A,B,A,0,1
+Where are people likely to enjoy a show?,theater,wedding,in the garden,opera,convention,A,A,A,1,1
+"I brought the mail in, where should I put it?",neighbor's house,post office,fridge,table,bathroom,D,D,D,1,1
+"The child wanted his cereal bowl and knew he could reach it, where would he find it?",breakfast food,china shop,kitchen cabinet,refrigerator,cupboard,C,C,C,1,1
+James was driving away from work. He slid into the outside lane.  Up ahead he would have to do what?,take u turn,turn left,crash,turn right,get to town,D,D,,1,0
+Where is a stool likely to be found?,internet cafe,blacksmith's shop,office,bar,building,D,C,D,0,1
+Where do you keep a credit card?,purse,envelope,resturant,wakket,wallet,E,E,E,1,1
+Spending time seeing artifacts listening to museum lectures will lead to what?,thinking,learning,angry,archeology,pleasure,B,B,B,1,1
+How might an unhappy person try to end their suffering?,going to the doctor,further cause,attempt suicide,wave goodbye,thank god,C,C,A,1,0
+What is someone with courage in a surprising situation not likely to feel?,fight,shocked,humor,nervous,frightened,E,E,E,1,1
+During what could you hear a viola along with many other types of instruments?,viola case,concert,orchestra,symphony,string quartet,D,C,B,0,0
+If you're getting drunk while in public you are likely where?,jail,gutter,city hall,park,bar,E,E,E,1,1
+When you meet interesting people your contacts list is likely to do what?,remember names,grow,friendly,cordial,friendship,B,B,B,1,1
+If I want to buy a lot of crab for dinner what sort of specialty location might I visit?,chesapeake bay,tidepools,hotels markets,fish market,beach sand,D,D,D,1,1
+What is the closest place to eat when you are not out on the town?,serving drinks,food court,shopping center,own house,downtown,D,D,D,1,1
+What's another name for cargo?,aeroplane,boat,giftwrap,hiding in,ship's hold,E,E,E,1,1
+"He often got thirsty at night and needed a drink, so he always had a night table everywhere he had lived in all his what?",furniture store,life,hallway,hotel,homes,E,B,B,0,0
+"The sloppy dad saw the random stuff in the kitchen, and didn't know where to put it, where did he decide to place it?",anything,cupboard,michigan,table,cabinet,E,D,,0,0
+Where could you find millions of ficus?,arboretum,california,teapot,apartment,ground,B,A,A,0,0
+"When a person is on trial for killing, what is a jury likely to decide?",execution,investigation,going to jail,retribution,punishment,E,C,C,0,0
+Where is a good place to keep a wagon meant for work?,garage,kitchen cabinet,backyard,field,toy store,A,C,A,0,1
+What does the first person in a group of people to have a child often feel like doing?,love,give birth,having fun,anxiety,making new friends,E,D,D,0,0
+What would a parent do if their child never goes outside or sees other people?,close box,homeschool,cry a lot,call child,experience fear,B,B,B,1,1
+"The old man would be stuck staying in bed, part of the nurse's job was to move him so he wouldn't get what?",bed sores,missing out,nervous,comfort,resting,A,A,A,1,1
+What do humans do when in a race?,lay eggs,eat fruit,wrestle,compete with each other,draw pictures,D,D,D,1,1
+"When one is looking at a series of attributes, how are they typically displayed?",on-screen,calculus,description,array,calculas,D,A,D,0,1
+What can a vehicle do to groceries?,eat,feel impact of accident,slow down,carry,travel,D,D,D,1,1
+Sarah didn't own a computer or a monitor.  Instead she just used something connected to her TV.  How would she describe the thing connected to her TV?,box,internet cafe,view bluescreen,desktop,display images,A,A,A,1,1
+Where would you get maps if you do not have them and want to keep them?,guide drivers,library,bookstore,cabinet,drawer,C,B,B,0,0
+"If you are chewing food, what broader activity would you be participating in?",grinding food,avoiding choking,eating,good digestion,sore mouth,C,C,C,1,1
+Where would you store a stack of paper when not immediately needed?,notebook,cabinet,classroom,suitcase,portfolio,B,B,B,1,1
+What happens after an extended amount of living for a person?,getting old,palpitations,death,perspiration,make friends,A,C,A,0,1
+"The person enjoyed the takeout, but he felt there was too many vegetables and wanted what?",warm coat,more rice,compliments,read book,to eat less cereal.,B,B,B,1,1
+"Everyone feels a little lost sometimes, they just need someone to listen and to be what?",accepted,understood,happy,happiness,victory in war,B,B,B,1,1
+"A common saying, Sam thought, was to go forth, also this.",reverse,backwards,back and,back and,tally back,D,C,C,0,0
+"The peanuts were sealed for freshness, so where were they placed?",jar,peanut shells,carnival,ballpark,bought at grocery store,A,A,A,1,1
+What do all rooms facing outside have?,square shape,different sizes,flowers,doors and windows,high walls,D,D,D,1,1
+In American it is possible for someone to grow up poor and end up what?,rich,good,being rich,adequate,famous,A,A,A,1,1
+Who is it important to pay attention to when attending school?,falling down,time,stupidity,teachers,patience,D,D,D,1,1
+Where are you if you open the night table drawer to find a bible placed by the gideons?,hallway,homes,furniture store,holding alarm clock,hotel,E,E,E,1,1
+How do you feel if you overindulge when eating breakfast?,gas,fullness,gain energy,stomachache,indigestion,B,B,B,1,1
