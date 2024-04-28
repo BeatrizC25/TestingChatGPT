@@ -17,8 +17,11 @@ To test ChatGPT, I used six different datasets:
 
 When a train file existed, I used that one; otherwise I tranformed and re-shaped the whole dataset. For the ScienceQA Dataset, I extracted only the questions related to Social and Language sciences.
 
-### Code
-Most of the code was done in Python as it made it easier to re-shape the datasets.
-To be able to better organize myself and my workspace, I created several Python files to perform the change I had in mind.
-Each folder has all the Python files used for the dataset mentioned.
+### Folders In This Repository:
+#### Code
+In this folder you can find all the code files created during the proccess of re-structuring the datasets, sampling them, using the OpenAI's APIs and organizing the results with R. This folder contains both Pyhton and R files.  
+
+#### Files
+Here you will be able to find all the files that were exported in the Python files along with the Excel files I used for my analysis. This folder includes CSV and Excel files.
+
 
