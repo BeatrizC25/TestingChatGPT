@@ -1,1 +1,2 @@
-All the code I used to tranform the ScienceQA dataset. Note that after the changes I made, the dataset was renamed to SocLang as the resulting files only contained questions regarding Social and Language Sciences.
+All the code I used to tranform the ScienceQA dataset. Note that after the changes I made, the dataset was renamed to SocLang 
+as the resulting files only contained questions regarding Social and Language Sciences.
