@@ -5,7 +5,7 @@ My thesis focus was on evaluating ChatGPT's performance across several areas of 
 
 To be able to properly test ChatGPT, I selected different datasets (found online) consisting of multiple choice questions. Each dataset focused on a different subjet, making me able to test these LLMs in different areas, as I intended to. Not all the datasets I used had the same structure and some of them did not have the structure I desired. Therefore, I had to transform the datasets to give them the organization and shape I wanted. 
 Once all the datasets had the desired structure, I reduced them in size before using OpenAI's APIs to get GPT-3.5 and GPT-4 to answer the multiple choice questions. 
-To analyse the answers, I used both R and Excel. 
+To analyse the answers, I used both R and Excel (for visualizations and simpler analysis). 
 
 ### Datasets 
 To test ChatGPT, I used six different datasets:
